@@ -1,0 +1,12 @@
+{
+  "string_value":"Hello world!",
+  "structured_object": {
+    "name":"Jakub",
+    "age":15
+  },
+  "list_of_objects":[
+    {"name":"Kasia","age":30},
+    {"name":"Janusz","age":50}
+  ],
+  "id":{"model":"honda accord", "production_year":2014}
+}
